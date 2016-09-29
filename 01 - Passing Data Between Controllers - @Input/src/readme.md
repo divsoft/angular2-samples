@@ -6,4 +6,4 @@ Blog Link :  http://diveshblog.weebly.com/blog/angular-2-passing-data-between-co
 
 The source code is in reference of blog post with above blog link.
 
-Please use angular-cli to create a skelleton and replace the src folder with the folder above and run the application.
+Please use angular-cli to create a skelleton and replace the content of src folder (angular-cli created) with the src and run the application.
